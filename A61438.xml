@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Positions concerning the differences between the true English liturgy and the deformed disordered Cranmerian changeling, by which it was supplanted.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61438</idno>
+            <idno type="STC">Wing S5435A</idno>
+            <idno type="STC">ESTC R222010</idno>
+            <idno type="EEBO-CITATION">99833249</idno>
+            <idno type="PROQUEST">99833249</idno>
+            <idno type="VID">37724</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61438)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37724)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Positions concerning the differences between the true English liturgy and the deformed disordered Cranmerian changeling, by which it was supplanted.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>By Edward Stephens cf. Wing.</note>
+                  <note>Imperfect; missing all after p. 4.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Liturgy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37724:1"/>
+            <head>
+               <hi>POSITIONS</hi> concerning the <hi>Differences</hi> between <hi>the True Engliſh Liturgy,</hi> and <hi>the</hi> deformed diſordered <hi>Cranmerian Changeling,</hi> by which it was Supplanted.</head>
+            <p n="1">1. THAT THE FIRST BOOK of <hi>Ed.</hi> 6. which was Compoſed by [known Perſons] <hi>The Arch-Biſhop of</hi> Canterbury, <hi>and certain of the moſt Learned and Diſcreet Biſhops and other Learned Men of this Realm,</hi> appoin<g ref="char:EOLhyphen"/>ted by the King to draw up the ſame, <hi>with reſpect as well to the moſt ſincere and pure Chriſtian Religion taught in the Scripture, as to the uſages in the Primitive Church,</hi> as by the <hi>St.</hi> 2. &amp; 3. <hi>Ed.</hi> 6. <hi>c.</hi> 1. is declared, and by the ſaid Sta. is Enacted to be uſed, is moreover by the Sta. declared to have been <hi>by the Aid of the Holy Ghoſt with one <g ref="char:V">Ʋ</g>niform Agreement of them concluded and ſet forth:</hi> and again by Sta. 3. &amp; 4. <hi>Ed.</hi> 6. <hi>c.</hi> 10. <hi>A Godly Order agreeable to the Or<g ref="char:EOLhyphen"/>der of the Primitive Church,</hi> and in it <hi>nothing to be Read, but the very pure Word of God, or what is evidently grounded upon the ſame:</hi> And again by Sta. 5. &amp; 6. <hi>Ed.</hi> 6. <hi>c.</hi> 1. <hi>A very Godly Order, agreeable to the Order of the Primitive Church, very comfortable to all good People deſiring to live in Chriſtian converſation; and moſt profitable to the State of this Realm:</hi> And that the Doubts <hi>riſen in the <g ref="char:V">Ʋ</g>ſe and Exerciſe of it were rather by the Curioſity of the Miniſters and Miſta<g ref="char:EOLhyphen"/>kers, than of any other worthy Cauſe.</hi>
+            </p>
+            <p n="2">2. That THE SECOND BOOK of <hi>Ed.</hi> 6. (by which the former was ſupplanted) in the Principal part, that is, the Office of the Faithful, Intiled, <hi>The Order for Adminiſtration of the Lord</hi>'s <hi>Sup<g ref="char:EOLhyphen"/>per or Holy Communion, is directly contrary</hi> to the former in all or moſt of the particulars aforeſaid, <hi>viz.</hi>
+            </p>
+            <p n="3">3. That it is not ſuch <hi>a Godly Order,</hi> but the former God<g ref="char:EOLhyphen"/>ly Order diſordered, abſurdly Inverted, interrupted with Imper<g ref="char:EOLhyphen"/>tinencies, maimed and diſmembred in ſome of the Principal and Eſſential parts of that Office.</p>
+            <p n="4">4. That it is not agreeable to <hi>the Order of the Primitive Church,</hi> but diſordered and diſmembered contrary to the Order of the Primitive and whole Catholick Church.</p>
+            <p n="5">5. That it was not concluded by any <hi>unanimous Agreement</hi> of any certain known diſcreet Biſhops or other Learned Men of <hi>this Church or Realm;</hi> but corrupted and diſordered by the Councels and Aſſiſtance of Foreigners, and by the Practice and Contrivance of <hi>Cranmer</hi> promoted in Parliament, and by Parliament Authority Schiſmatically impoſed upon the Church and Nation, without the Conſent of the Clergy of this Nation, or of any one of them, who is certainly known to have had any hand in it.</p>
+            <pb n="2" facs="tcp:37724:2" rendition="simple:additions"/>
+            <p n="6">6. That it was not concluded by <hi>the Aid of the Holy Ghoſt,</hi> but diſordered and diſmembred by the ſubtile Inſtigation of the Spirit of Antichriſt; to do diſpite to the Holy Ghoſt; to a<g ref="char:EOLhyphen"/>brogate the Honour of our Saviour; aboliſh the Solemnity of the peculiar Chriſtian Worſhip; to ſtifle even the true Notion of it; to bring it into Diſuſe; deprive us of the Benefit of it; and bring the Judgments of God upon this Church and Nation.</p>
+            <p n="7">7. That it hath not been <hi>Profitable to the State of the Nation,</hi> but brought, 1. Severe Judgments of God upon the firſt Authors of it, and Corrupters of his Worſhip; and 2. All the Evils before mention'd deſign'd by that Wicked Spirit of Antichriſt, upon this Church and Nation to this day.</p>
+            <p n="8">8. That as the unhappy <hi>Differences of Religion</hi> have been a Principal <hi>Cauſe or Occaſion</hi> of much <hi>of the Wars,</hi> which in theſe laſt Ages have Infeſted Europe; ſo the <hi>Corruption of this Litur<g ref="char:EOLhyphen"/>gy</hi> is one Principal Cauſe of theſe Differences, Indefenſable on the part of this Church by Law Eſtabliſhed, and which makes it no glorious Church, but a <hi>Schiſmatical Faction.</hi>
+            </p>
+            <p n="9">9. That theſe things have been long ſince perceived, at leaſt in a great meaſure, by many <hi>Learned and Judicious Men</hi> of theſe Nations, who have all deſired, and ſome indeavoured to have them rectified.</p>
+            <p n="10">10. That if theſe things be ſo, there is great <hi>Danger</hi> that <hi>a Wilful Neglect,</hi> (<hi>after a plain Admonition</hi> thereof by any Perſon whatever) in ſuch as are in place of Authority, to Reform and Rectify theſe Diſorders, Corruptions and Abuſes in the Solemn Worſhip of God and our Saviour, may now produee the like Judgments of God upon themſelves, if not alſo upon the Na<g ref="char:EOLhyphen"/>tion, as the firſt abuſed Corrupters thereof did upon themſelves and the Nation heretofore.</p>
+            <p n="11">11. That the ſeting up of <hi>the Kings</hi>'s <hi>Armes</hi> in the place of our moſt Solemn Worſhip, and over the Commandments and the moſt holy Name of God, was an Inſolent, Prophane and Impious thing: And tho it was firſt done by Factious inconſi<g ref="char:EOLhyphen"/>derate People without Authority; yet if after notice it be Conniv'd at, or Tolerated by thoſe who are in Authority, and may and ought to Reform it, it will become their Sin, and may provoke the Judgments of God upon them.</p>
+            <p n="12">12. That as <hi>the King</hi>'s <hi>Arms</hi> ſo placed is a proper Enſign for this Church, as an Emblem of the Subjection of their Religi<g ref="char:EOLhyphen"/>on to the Suprimacy of the Civil Power; ſo <hi>the Flying Dragon</hi> (in ſtead of the Sign of the Son of Man) upon the Spire of <hi>Bow</hi>-Church, the Peculiar of the Arch-biſhop in the chief City of this Nation, is as proper an Enſign and Emblem of that invi<g ref="char:EOLhyphen"/>ſible Power, by whoſe Operation and Energy the Corruption of the Solemn Worſhip of God, of the Diſcipline, and of o<g ref="char:EOLhyphen"/>ther matters of Religion have been effectually accompliſhed and ſetled, under pretence of Reformation, and theſe Enſigns</p>
+            <pb n="3" facs="tcp:37724:2"/>
+            <p n="13">13. That it is manifeſt that the <hi>Superſtition</hi> of former Ages is in this turned into great <hi>Prophaneneſs;</hi> and that People, not only the Laity, but the Clergy alſo, are grown cold and ſenſeleſs of the Diſhonour done to God in theſe and other matters, ſo that divers things, which in former ages have been reputed great and provokeing Sins, are commonly now thought to be no Sins at all, or but mere Peccadillos</p>
+            <p n="14">14. That the principal Cauſe of the Contempt of the Clergy is the juſt <hi>Judgment of God upon them</hi> for their Inſenſibility and little Concern for the Diſhonour done to his Divine Majeſty in theſe things and the Scandal of that and their temparizing compliances and Greedineſs of Preferments and that there is great Probability that the time is at hand, that they will all be caſt out, if they do not ſpeedily awake and mend their Manners.</p>
+            <div type="questions">
+               <head>
+                  <hi>QUESTIONS</hi> concerning Prayers for the Dead.</head>
+               <p n="1">1. WHether Prayers for the Dead be any part of <hi>Popery,</hi> or a true Catholic Practice of the Church of Chriſt in the firſt, pureſt, and moſt flouriſhing Ages of it?</p>
+               <p n="2">2. Whether S. <hi>Paulinus</hi> and S. <hi>Auguſtin</hi> for the <hi>Latin</hi> Church, and S. <hi>John Chryſoſtome,</hi> S. <hi>Epiphanius,</hi> S. <hi>Cyril</hi> of <hi>Jeruſalem</hi> for the <hi>Greek</hi> Church, be not competent and poſitive Witneſſes for their Age, that Prayers for the Dead was then the Practice of the whole Catholick Church, and believed to be an Apoſtolical Tradition?</p>
+               <p n="3">3. Whether S. <hi>Arnobius</hi> and S. <hi>Cyprian, &amp;c.</hi> be not ſuch compe<g ref="char:EOLhyphen"/>tent Witneſſes for the Age precedent; and <hi>Tertullian,</hi> who lived in the ſame Age wherein S. <hi>John</hi> writ his Revelation, for that Age, that it was then the Practice of the Church, and believed to have been received by Tradition from the Apoſtles?</p>
+               <p n="4">4. Whether divers learned <hi>Proteſtants,</hi> both of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and of foreign Reformed Churches, have not confeſſed and aſſer<g ref="char:EOLhyphen"/>ted this to be ſo, and deſired to have the Catholic Practice reſtored?</p>
+               <p n="5">5. Whether any of the <hi>late Writers of Controverſy</hi> againſt the <hi>Papiſts</hi> have denyed this, or aſſerted any thing more againſt it, than that the Prayers for the Dead, uſed by the ancient Chriſtians, do no<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> prove Popiſh Purgatory? and who are they?</p>
+               <p n="6">6. Whether there be any clear and expreſs <hi>Scripture</hi> to prove that <hi>the State of</hi> all <hi>Souls,</hi> immediately <hi>after their departure</hi> out of the Body, is ſo determined, that they are incapable of any Augmenta<g ref="char:EOLhyphen"/>tion of Glory, or Mitigation of Pain, or Benefit by Prayers, or any thing that can be done by the Living?</p>
+               <p n="7">7. Whether it be not imprudent, and inconſiſtent with the Profeſ<g ref="char:EOLhyphen"/>ſion of <hi>Belief of the Holy Catholick-Church,</hi> to reject the Authority of ſuch a truly Catholick Practice, and become <hi>Sectaries,</hi> after the opi<g ref="char:EOLhyphen"/>tion of one or two particular perſons?</p>
+               <p n="8">8. Whether it be conſiſtent with <hi>Charity,</hi> with due reſpect to the Body of Chriſt, which is his Church, and with Profeſſion of the Be<g ref="char:EOLhyphen"/>lieve of the <hi>Communion of Saints,</hi> to Reject ſuch a Practice of Com<g ref="char:EOLhyphen"/>munion of Saints?</p>
+               <p n="9">9. Whether the <hi>Calviniſts,</hi> by oppoſing of this, have not greatly over-ſhot themſelves, given great <hi>Advantage to the Cauſe of the Papiſts,</hi> and made their own worſe, and indefenſible in this particular?</p>
+               <pb n="4" facs="tcp:37724:3"/>
+               <p n="10">10. Whether it be not the trueſt <hi>Wiſdom,</hi> and a <hi>Duty</hi> of manifold Obli<g ref="char:EOLhyphen"/>gation, to deſiſt from all Contention in this caſe, and return to true ancient Catholic Practice.</p>
+            </div>
+            <div type="questions">
+               <head>
+                  <hi>ADDITIONAL QUESTIONS</hi> concerning Prayers for the Dead.</head>
+               <p n="1">1. WHether the <hi>Evidence produc'd,</hi> in the late Tr. OF PRAY<g ref="char:EOLhyphen"/>ERS FOR THE DEAD dedicated to the Judges, for the Apoſtolical Authority of that Practice, be not as great as can be produc'd for Baptiſm of Infants, for Epiſcopacy, and for ſeveral of the Writings of the New Teſtament?</p>
+               <p n="2">2. Whether there be any plain <hi>Evidence of any one Church</hi> upon the Face of the Earth ſince the time of the Apoſtles in Cathoic Communion, where the moſt ſolemn part of the Chriſtian Wor<g ref="char:EOLhyphen"/>ſhip was ever performed <hi>without Commemorations for the Dead?</hi>
+               </p>
+               <p n="3">3. Whether <hi>Refuſal of Communion</hi> with any Church, or Perſon, for that Practice, be not an implicit <hi>forſaking the Communion of the whole Catholic Church</hi> in all former Ages, and Actual Sin of Schiſm?</p>
+               <p n="4">4. Whether <hi>to put all ſuch</hi> Commemorations <hi>out of the publick Of<g ref="char:EOLhyphen"/>fices</hi> of any Church, be not a Contempt of the Authority of the whole Catholic Church, and a Formal act of Schiſm, involuing all in the Guilt thereof, who conſent to it?</p>
+               <p n="5">5. Whether it was <hi>put out of the true Engliſh Liturgy</hi> by any proper Eccleſiacal Authority, or only by indirect Practice by <hi>Cranmer,</hi> and mere Lay Authority?</p>
+               <p n="6">6. Whether <hi>the People of this Nation</hi> have not been <hi>groſly abuſed</hi> by the <hi>Prejudice</hi> they have been led into againſt ſuch a Catholic and Apoſtolic Practice?</p>
+               <p n="7">7. Whether <hi>Such as Deny, or Diſcemble their Practice, or Belief</hi> of the Lawfulneſs of Prayers for the Dead, and do not honeſtly declare the ſame to undeceive the People, may be truſted as Faithful Miniſters of Chriſt, or are rather to be avoided, as temporizinig Men pleaſers, Deceitful Workers, and actually guilty of Hypocr<g ref="char:EOLhyphen"/>cy, of abuſe of the People, Contempt of the Authority of the Ca<g ref="char:EOLhyphen"/>tholic Church, and of Schiſm?</p>
+               <p n="8">8, Whether the Clergy of the Church of <hi>England</hi> by Law Eſtabliſhed, having from the begining pretended much <hi>Reverence for Antiquity;</hi> and eſpecially for the Times of the four firſt Gene<g ref="char:EOLhyphen"/>ral Counſels; and appleaed thereunto for Determination of Con<g ref="char:EOLhyphen"/>troverſies; they who now oppoſe that Practice, and yet connot deny it to have been the Catholic Practice of thoſe times, as re<g ref="char:EOLhyphen"/>ceived from the Apoſtles, do not plainly ſignify their Belief, that either the <hi>Principles</hi> or the <hi>Pretences</hi> of the ſad Clergy from the begin<g ref="char:EOLhyphen"/>ing have been falſe?</p>
+               <p n="9">9, Whether the <hi>Prejudice,</hi> which the People have conceived up<g ref="char:EOLhyphen"/>on that Abuſe, be not really mere <hi>Superſtiſtion,</hi> in ſuch as are ſin<g ref="char:EOLhyphen"/>cere; and the <hi>Oppoſition</hi> of others for <hi>fear of Reproach</hi> or <hi>Tom<g ref="char:EOLhyphen"/>poral Reſpests,</hi> much worſe?</p>
+               <p n="10">10. Whether this of Prayers for the Dead be not one of the unhappy Differences in Religion, indefenſable on the part of the pre<g ref="char:EOLhyphen"/>tended Reformation, which have been the Occaſion of ſo much <gap reason="missing" extent="1 page">
+                     <desc>〈1 page missing〉</desc>
+                  </gap>
+               </p>
+               <pb facs="tcp:37724:3"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
